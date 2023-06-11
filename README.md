@@ -8,6 +8,6 @@ During this hands-on process, I had to configure an MYSQL Database and a replica
 
 ![AWS RDS](https://github.com/Benn1440/AWS_RDS/assets/67696393/adda8286-16f7-4019-b193-f5e72b424141)
 
-Also there is the need to always set  rules for inbound traffic that can access the Database, and to achieve securityin the cloud, it is paramount to always have your database in aprivate subnet.
+Also there is the need to always set  rules for inbound traffic that can access the Database, and to achieve security in the cloud, it is paramount to always have your database in a private subnet.
 
 ![DB Rules](https://github.com/Benn1440/AWS_RDS/assets/67696393/8862599b-3d8b-4437-987f-dd4c5e1ad555)
